@@ -1,7 +1,7 @@
 # 8-Week-SQL-Challenge-Danny-s-Diner
 
 Link: https://8weeksqlchallenge.com/case-study-1/
-![image](https://github.com/lravelb/8-Week-SQL-Challenge-Danny-s-Diner/assets/149938522/768ebddc-d6f6-49b1-9d28-3af0b0cb6ad0)
+![image](https://github.com/lravelb/8-Week-SQL-Challenge-Danny-s-Diner/assets/149938522/99a785e1-73e9-459a-a395-c9822e3abafb)
 
 # Introduction
 Danny seriously loves Japanese food so in the beginning of 2021, he decides to embark upon a risky venture and opens up a cute little restaurant that sells his 3 favourite foods: sushi, curry and ramen.
